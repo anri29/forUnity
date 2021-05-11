@@ -446,7 +446,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0bea56e68374c54dad94a56cc0ed9a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myMessage: Boba and Buba
+  myMessage: Boba and Buba !!!!
 --- !u!4 &799052279
 Transform:
   m_ObjectHideFlags: 0
@@ -670,3 +670,72 @@ MonoBehaviour:
   scaleChange: {x: 0.001, y: 0.001, z: 0.001}
   positionChange: {x: 0, y: 0.01, z: 0}
   rotateChange: {x: 0, y: 0, z: -1}
+--- !u!1001 &368181422452675159
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360784, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 368181422721360789, guid: 478042b8423564f4abaf638d9e605713,
+        type: 3}
+      propertyPath: m_Name
+      value: Sphere (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 478042b8423564f4abaf638d9e605713, type: 3}
